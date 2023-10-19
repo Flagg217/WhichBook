@@ -45,4 +45,13 @@ To log out of the site, click on the Logout button in the menu.
 
 ## Requirements:
 
+
 A web browser with JavaScript enabled
+
+## Screenshots:
+
+![Screenshot of the search engine](./client/public/images/screenshot1.png)
+
+![Screenshot of the search results](./client/public/images/screenshot2.png)
+
+![Screenshot of the saved books page](./client/public/images/screenshot3.png)
