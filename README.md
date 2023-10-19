@@ -55,3 +55,8 @@ A web browser with JavaScript enabled
 ![Screenshot of the search results](./client/public/images/screenshot2.png)
 
 ![Screenshot of the saved books page](./client/public/images/screenshot3.png)
+
+## Links:
+
+Deployed application: https://whichbooks-86aa2aaea065.herokuapp.com/  
+GitHub repository: https://github.com/Flagg217/WhichBook  
